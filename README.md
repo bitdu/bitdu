@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eduardo Sant Anna - @bitdu
+- 👋 Hi, I’m Eduardo de Holanda - @bitdu
 - 👀 I’m interested in art and technology
 - 🌱 I’m currently learning Javascript / React
 - 💞️ I’m looking to collaborate on creative / science projects
